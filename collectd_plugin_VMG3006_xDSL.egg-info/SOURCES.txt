@@ -1,0 +1,8 @@
+README.md
+setup.py
+VMG3006_xDSL/__init__.py
+collectd_plugin_VMG3006_xDSL.egg-info/PKG-INFO
+collectd_plugin_VMG3006_xDSL.egg-info/SOURCES.txt
+collectd_plugin_VMG3006_xDSL.egg-info/dependency_links.txt
+collectd_plugin_VMG3006_xDSL.egg-info/requires.txt
+collectd_plugin_VMG3006_xDSL.egg-info/top_level.txt
