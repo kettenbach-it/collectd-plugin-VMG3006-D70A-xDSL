@@ -134,8 +134,8 @@ xdslinfo = XdslInfo()
 def getXDSLStats(host, user, password):
     session = requests.session()
     postreply = session.post(host + loginpath, {
-        '_username': user,
-        '_password': password
+        'LoginName': user,
+        'LoginPass': password
     })
     sid = postreply.cookies.get("SESSION_ID")
     # Get page with xDSL Stats
@@ -361,7 +361,7 @@ def read():
                         ).dispatch()
 
     else:
-        print(xdslinfo)
+        printDSLStats()
 
 
 if __name__ != "__main__":

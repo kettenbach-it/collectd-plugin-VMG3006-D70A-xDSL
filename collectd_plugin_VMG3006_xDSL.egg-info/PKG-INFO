@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: collectd-plugin-VMG3006-xDSL
-Version: 1.0.0
+Version: 1.0.2
 Summary: A collectd module written in Python for getting the xDSL status of Zyxel VMG3006 VDSL2 supervectoring modems
 Home-page: https://github.com/kettenbach-it/collectd-plugin-VMG3006-D70A-xDSL
 Author: Volker Kettenbach
